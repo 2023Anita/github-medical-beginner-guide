@@ -28,6 +28,11 @@ body {
   backdrop-filter: blur(16px);
 }
 
+.VPNavBarTitle .logo {
+  border-radius: 50%;
+  object-fit: contain;
+}
+
 .VPDoc .container {
   max-width: 1180px !important;
 }

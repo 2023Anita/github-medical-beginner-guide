@@ -23,7 +23,7 @@ export default withMermaid(
       ],
     ],
     themeConfig: {
-      logo: "/assets/source/01-github-beginner-map.jpg",
+      logo: "/assets/brand/logo002.png",
       nav: [
         { text: "课程首页", link: "/zh/" },
         { text: "框架图", link: "/zh/visual-map" },
