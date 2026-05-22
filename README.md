@@ -6,7 +6,7 @@
 
 https://2023anita.github.io/github-medical-beginner-guide/
 
-![课程学习地图](docs/public/assets/illustrations/01-learning-map.png)
+![GitHub Medical Beginner Guide 封面](docs/public/assets/source/github-medical-readme-cover.png)
 
 ## 项目定位
 
