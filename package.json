@@ -6,8 +6,9 @@
   "type": "module",
   "scripts": {
     "content:build": "node scripts/build-content.mjs",
+    "locales:build": "node scripts/build-locales.mjs",
     "docs:dev": "vitepress dev docs --host 127.0.0.1",
-    "docs:build": "npm run content:build && vitepress build docs",
+    "docs:build": "npm run content:build && npm run locales:build && vitepress build docs",
     "docs:preview": "vitepress preview docs --host 127.0.0.1"
   },
   "devDependencies": {
