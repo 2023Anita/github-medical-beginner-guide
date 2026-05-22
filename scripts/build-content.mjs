@@ -145,6 +145,11 @@ function writeFile(file, content) {
   fs.writeFileSync(file, content.trimEnd() + "\n", "utf8");
 }
 
+if (!fs.existsSync(sourcePath)) {
+  console.warn("Source document not found at " + sourcePath + ". Using committed docs without regenerating content.");
+  process.exit(0);
+}
+
 const source = normalizeMarkdown(stripFrontmatter(fs.readFileSync(sourcePath, "utf8")));
 const { intro, sections } = splitSections(source);
 const sectionByNumber = new Map(sections.map((section) => [section.number, section]));
