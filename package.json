@@ -1,0 +1,19 @@
+{
+  "name": "github-medical-beginner-guide",
+  "private": true,
+  "version": "0.1.0",
+  "description": "给医护人员和医疗科研新手的 GitHub 入门课程站。",
+  "type": "module",
+  "scripts": {
+    "content:build": "node scripts/build-content.mjs",
+    "docs:dev": "vitepress dev docs --host 127.0.0.1",
+    "docs:build": "npm run content:build && vitepress build docs",
+    "docs:preview": "vitepress preview docs --host 127.0.0.1"
+  },
+  "devDependencies": {
+    "mermaid": "^11.14.0",
+    "typescript": "^5.7.0",
+    "vitepress": "^1.6.4",
+    "vitepress-plugin-mermaid": "^2.0.17"
+  }
+}
