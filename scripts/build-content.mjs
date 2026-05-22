@@ -91,7 +91,7 @@ function normalizeMarkdown(text) {
   return text
     .replace(
       /!\[\[teaching\/assets\/github-complete-beginner-guide\/01-github-beginner-map\.jpg\]\]/g,
-      "![GitHub 医护人员学习地图](/assets/source/01-github-beginner-map.jpg)",
+      "![GitHub 医疗初心者指南封面](/assets/source/github-medical-beginner-cover.png)",
     )
     .replace(/^\s*---\s*$/gm, "\n---\n");
 }

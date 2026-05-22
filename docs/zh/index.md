@@ -15,7 +15,7 @@ description: "从 0 到 1 看懂开源项目、AI 工具与科研代码"
 > 本教材改写自 [[raw/articles/GitHub保姆级教程：从0到1手把手教你学会完整使用.md]]，并进一步改成 **医护人员 / 医学生 / 医疗科研人员专用版**。  
 > 你不需要先会写代码。本指南的目标是让你先能看懂 GitHub：知道一个医疗 AI 项目、科研代码、统计脚本、开源工具是否靠谱，如何下载，如何收藏，如何反馈问题，以及如何把自己的小工具或科研代码规范地放上去。
 
-![GitHub 医护人员学习地图](/assets/source/01-github-beginner-map.jpg)
+![GitHub 医疗初心者指南封面](/assets/source/github-medical-beginner-cover.png)
 
 ---
 
