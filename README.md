@@ -1,16 +1,25 @@
-# GitHub 医护人员入门指南
+# GitHub Medical Beginner Guide | GitHub 医护人员入门指南
 
-给医生、护士、医学生和医疗科研人员的 GitHub 小白课程站。
+<p align="center">
+  <a href="#-中文">🇨🇳 中文</a> ·
+  <a href="#-english">🇺🇸 English</a> ·
+  <a href="#-日本語">🇯🇵 日本語</a> ·
+  <a href="#-한국어">🇰🇷 한국어</a> ·
+  <a href="#-français">🇫🇷 Français</a> ·
+  <a href="#-deutsch">🇩🇪 Deutsch</a>
+</p>
 
-这不是泛程序员 Git 命令教程，而是一套面向医疗场景的 **GitHub 阅读、判断、复用与安全发布课程**。它先教你看懂一个开源项目，再逐步带你完成收藏、下载、提 Issue、写 README、发布教学 demo。
+<p align="center">
+  A beginner-friendly GitHub course for healthcare professionals, medical students, and clinical researchers.
+</p>
 
-[在线学习入口](https://2023anita.github.io/github-medical-beginner-guide/) · [中文课程首页](https://2023anita.github.io/github-medical-beginner-guide/zh/) · [30 分钟练习](https://2023anita.github.io/github-medical-beginner-guide/zh/practice/) · [资料库](https://2023anita.github.io/github-medical-beginner-guide/zh/resources/)
+[Start Learning](https://2023anita.github.io/github-medical-beginner-guide/) · [中文课程首页](https://2023anita.github.io/github-medical-beginner-guide/zh/) · [30 分钟练习](https://2023anita.github.io/github-medical-beginner-guide/zh/practice/) · [资料库](https://2023anita.github.io/github-medical-beginner-guide/zh/resources/)
 
 ![GitHub Medical Beginner Guide 封面](docs/public/assets/source/github-medical-readme-cover.png)
 
-## Language / 语言切换
+## 🌐 Language Switch / 语言切换
 
-网站导航栏支持多语言切换。GitHub 仓库页也可以从这里直接进入对应版本：
+The course website supports six language entries. Choose your language below.
 
 | 语言 | 课程入口 | 适合用途 |
 |---|---|---|
@@ -20,6 +29,70 @@
 | 🇰🇷 한국어 | [한국어 과정 열기](https://2023anita.github.io/github-medical-beginner-guide/ko/) | 한국어 학습 안내와 장별 가이드 |
 | 🇫🇷 Français | [Ouvrir la version française](https://2023anita.github.io/github-medical-beginner-guide/fr/) | Parcours guidé en français |
 | 🇩🇪 Deutsch | [Deutsche Version öffnen](https://2023anita.github.io/github-medical-beginner-guide/de/) | Deutscher Überblick und Lernpfad |
+
+## 🇺🇸 English
+
+This is not a generic Git command tutorial. It is a practical GitHub reading and evaluation course for healthcare professionals.
+
+You will learn how to:
+
+- read a GitHub repository before touching the command line;
+- evaluate README, Release, Issues, License, data privacy, and medical disclaimers;
+- decide whether a medical AI or research-code project is safe to study;
+- use AI to explain a README in plain language;
+- publish a small teaching demo without exposing patient data or secrets.
+
+Start here: [English course](https://2023anita.github.io/github-medical-beginner-guide/en/)
+
+## 🇯🇵 日本語
+
+これは一般的な Git コマンド講座ではありません。医療者・医学生・医療研究者が GitHub のプロジェクトを読み、信頼性とリスクを判断するための入門コースです。
+
+- README、Release、Issues、License の見方を学ぶ
+- 医療 AI / 研究コードの安全性と利用範囲を確認する
+- 実患者データや秘密情報を公開しない形で教材 demo を作る
+- AI を使って README をやさしく解釈する
+
+開始はこちら: [日本語版を見る](https://2023anita.github.io/github-medical-beginner-guide/ja/)
+
+## 🇰🇷 한국어
+
+이 과정은 일반적인 Git 명령어 강의가 아니라, 의료인과 의학 연구자가 GitHub 프로젝트를 읽고 평가하는 방법을 배우는 입문 과정입니다.
+
+- README, Release, Issues, License를 읽는 순서
+- 의료 AI / 연구 코드의 신뢰도와 위험 경계 확인
+- 환자 데이터와 비밀 정보를 공개하지 않는 안전한 demo 작성
+- AI로 README를 쉽게 해석하는 방법
+
+시작하기: [한국어 과정 열기](https://2023anita.github.io/github-medical-beginner-guide/ko/)
+
+## 🇫🇷 Français
+
+Ce cours n'est pas un tutoriel Git générique. Il aide les professionnels de santé, les étudiants en médecine et les chercheurs à lire et évaluer des projets GitHub.
+
+- comprendre README, Release, Issues et License ;
+- vérifier les données, la confidentialité et les limites médicales ;
+- évaluer un projet d'IA médicale ou de code de recherche ;
+- publier un petit demo pédagogique sans exposer de données patients.
+
+Commencer ici : [version française](https://2023anita.github.io/github-medical-beginner-guide/fr/)
+
+## 🇩🇪 Deutsch
+
+Dies ist kein allgemeiner Git-Befehls-Kurs. Der Kurs hilft medizinischen Fachpersonen, Medizinstudierenden und Forschenden, GitHub-Projekte zu lesen und sicher einzuschätzen.
+
+- README, Release, Issues und License verstehen;
+- Datenquellen, Datenschutz und medizinische Grenzen prüfen;
+- medizinische KI- oder Forschungsprojekte besser bewerten;
+- ein kleines Lehr-demo veröffentlichen, ohne Patientendaten oder Secrets preiszugeben.
+
+Hier starten: [deutsche Version](https://2023anita.github.io/github-medical-beginner-guide/de/)
+
+## 🇨🇳 中文
+
+给医生、护士、医学生和医疗科研人员的 GitHub 小白课程站。
+
+这不是泛程序员 Git 命令教程，而是一套面向医疗场景的 **GitHub 阅读、判断、复用与安全发布课程**。它先教你看懂一个开源项目，再逐步带你完成收藏、下载、提 Issue、写 README、发布教学 demo。
 
 ## 这个项目一句话说清楚
 
